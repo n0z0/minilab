@@ -14,7 +14,7 @@ Pendekatan ini mirip dengan membuat **mini lab pentest** di dalam container-cont
 
 ---
 
-## **🛠 Arsitektur Lab (Podman)**
+## **Arsitektur Lab (Podman)**
 
 ```
 +-------------------+
